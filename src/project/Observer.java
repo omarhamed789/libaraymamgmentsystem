@@ -6,7 +6,8 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @author omar
+ 
  */
 public interface Observer {
     void update(String message);
