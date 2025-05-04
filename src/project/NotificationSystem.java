@@ -8,7 +8,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 public class NotificationSystem implements Observer {
     private static final Logger logger = Logger.getInstance();
