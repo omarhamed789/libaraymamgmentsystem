@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 public interface BookCategory {
         void displayCategory();
