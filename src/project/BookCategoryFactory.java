@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 public class BookCategoryFactory {
     public static BookCategory getBookCategory(String categoryType) {
