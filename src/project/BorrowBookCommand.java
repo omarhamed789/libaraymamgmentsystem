@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 
 public class BorrowBookCommand implements Command {
