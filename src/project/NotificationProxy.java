@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @author pomar
  */
 public class NotificationProxy {
     private NotificationSystem notificationSystem;
