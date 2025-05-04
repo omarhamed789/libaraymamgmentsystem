@@ -10,7 +10,7 @@ import project.Logger;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 
 public class ReturnCommand implements Command {
