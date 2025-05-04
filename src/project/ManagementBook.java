@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @omar
  */
 public class ManagementBook implements BookCategory {
     @Override
