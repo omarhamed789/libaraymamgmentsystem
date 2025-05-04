@@ -13,7 +13,7 @@ import project.SearchCommand;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 public class returnBook extends javax.swing.JFrame {
     private static final Logger logger = Logger.getInstance();  
