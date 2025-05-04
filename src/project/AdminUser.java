@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author peter_adel
+ * @author omar
  */
 public class AdminUser implements User {
     @Override
