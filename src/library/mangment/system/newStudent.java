@@ -10,7 +10,7 @@ import project.Logger;  // Add this import
 
 /** 
  *
- * @author peter_adel
+ * @author omar
  */
 public class newStudent extends javax.swing.JFrame {
     private Logger logger = Logger.getInstance();  // Create an instance of the Logger class
